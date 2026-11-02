@@ -1,0 +1,34 @@
+{
+  "single_maj": {
+    "disagreement": 0.02724137931034483,
+    "n": 11600
+  },
+  "single_mean": {
+    "disagreement": 0.03431034482758621,
+    "n": 11600
+  },
+  "mean_maj": {
+    "disagreement": 0.030517241379310344,
+    "n": 11600
+  },
+  "mean_mean": {
+    "disagreement": 0.017586206896551725,
+    "n": 11600
+  },
+  "majority_maj": {
+    "disagreement": 0.008620689655172414,
+    "n": 11600
+  },
+  "majority_mean": {
+    "disagreement": 0.029482758620689654,
+    "n": 11600
+  },
+  "d90_maj": {
+    "disagreement": 0.02956896551724138,
+    "n": 11600
+  },
+  "d90_mean": {
+    "disagreement": 0.0275,
+    "n": 11600
+  }
+}
