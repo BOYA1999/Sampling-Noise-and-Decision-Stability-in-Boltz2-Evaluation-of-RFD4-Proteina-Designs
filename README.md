@@ -1,4 +1,4 @@
-# Evaluation sampling noise and decision stability in RFD4-Proteina
+# Sampling Noise and Decision Stability in Boltz2 Evaluation of RFD4-Proteina Designs
 
 This repository provides scripts and processed numerical metrics for **saved-metrics analysis replay** of the associated manuscript. It contains the metrics from which the reported comparisons, selected uncertainty estimates, ranking sensitivities, and plots can be recomputed. It does not rerun protein generation, structure prediction, alignment, or experimental validation.
 
